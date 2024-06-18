@@ -1,1 +1,2 @@
+--trusted-host mirrors.aliyun.com
 PyYAML==5.3.1
